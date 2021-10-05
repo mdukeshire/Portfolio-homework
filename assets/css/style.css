@@ -221,7 +221,7 @@ main {
 
 /* portfolio project images */
 .prework-about-me {
-  background-image: url("../images/about-me.jpg");
+  background-image: url("../images/about-me.jpg") 
 }
 
 .Homework-week-1 {
