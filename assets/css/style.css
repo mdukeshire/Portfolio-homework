@@ -224,6 +224,25 @@ main {
   background-image: url("../images/marketing\ website.jpg");
 }
 
+.Password-Generator {
+  background-image: url("../images/password.jpg");
+}
+
+.Coding-Quiz {
+  background-image: url("../images/quiz.jpg");
+}
+
+.Day-Scheduler {
+  background-image: url("../images/scheduler.jpg");
+}
+
+.Weather-Dashboard {
+  background-image: url("../images/weather.jpg");
+}
+
+.Event-Search {
+  background-image: url("../images/map.png");
+}
 
 
 
