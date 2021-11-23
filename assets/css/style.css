@@ -151,7 +151,13 @@ main {
 .flex-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: left;
+  flex: 0 0 20%;
+  text-align: right;
+  padding-right: 15px;
+  border-right: 4px solid var(--primary);
+  font-size: 20px;
+  line-height: 1.1;
 }
 
 .flex-item {
